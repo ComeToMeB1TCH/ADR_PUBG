@@ -38,6 +38,6 @@ int main() {
     cout << "Za 400 matchey " << adr_400 <<" ADR+"<<endl;
     cout << "Za 500 matchey " << adr_500 <<" ADR+"<<endl;
     cout << "1024 <break>"<<endl;
-    cin >>a;
+    cin >> a;
     }
 }
